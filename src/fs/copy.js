@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-//test
+//test 2
 const copy = async () => {
     // Write your code here 
     function copyFolderSync(from, to) {
